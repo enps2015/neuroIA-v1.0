@@ -1,0 +1,6 @@
+{
+  "name": "NeuroIA - Trilha de Neurobiologia para IA e Ciência de Dados",
+  "description": "Guia prático e estruturado para iniciar em neurobiologia sem medo, conectando conceitos biológicos à análise de dados e inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
